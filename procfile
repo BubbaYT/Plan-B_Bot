@@ -1,1 +1,1 @@
-worker: planb.py
+worker:python planb.py
